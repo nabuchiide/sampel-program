@@ -4,5 +4,3 @@
            echo "Hello World";
         }
     }
-    
-?>
